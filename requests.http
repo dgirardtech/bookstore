@@ -1,0 +1,3 @@
+GET http://localhost:8080/odata/v4/AdminService/Products
+Accept: application/json
+Authorization: Basic sabine:pass_sabine
